@@ -1,0 +1,136 @@
+{
+  "capturedAt": "2026-11-02T13:43:48.473Z",
+  "engine": "Vertex AI · groundwork-500011 · us-central1 · gemini-2.5-flash",
+  "testNumber": "reserved simulator number (never sent to Meta)",
+  "country": "Nigeria",
+  "turns": [
+    {
+      "role": "user",
+      "text": "Hi",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "Before we start: I’m an AI assistant. I can help you find buyers and sellers, check market prices, get weather and traffic updates, and understand what’s happening across markets. Shall we get started?",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "✅ Yes, proceed",
+        "❌ No thanks",
+        "🌐 Change language"
+      ],
+      "time": "16:43"
+    },
+    {
+      "role": "user",
+      "text": "✅ Yes, proceed",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "📍 Nigeria.\n\nWhich state or county are you in? It helps me find the right market.\n\nPick one below, or type it.",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "☰ Choose"
+      ],
+      "time": "16:43"
+    },
+    {
+      "role": "user",
+      "text": "Kano",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "Which market or area are you in?\n\nTell me the market name or your nearest town.",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "Dawanau Market",
+        "Gundutse Market",
+        "Karfi Market"
+      ],
+      "time": "16:43"
+    },
+    {
+      "role": "user",
+      "text": "Dawanau Market",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "I have you at Dawanau Market.\n\nAre you buying or selling today?",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "☰ Choose"
+      ],
+      "time": "16:43"
+    },
+    {
+      "role": "user",
+      "text": "Buying",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "What are you looking to buy?\nTap a product below, or type it — I'll find sellers near Dawanau Market.\n\n1. 🍅 Tomatoes\n2. 🧅 Onions\n3. 🌾 Rice\n4. 🌽 Maize\n5. 🫘 Beans",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "user",
+      "text": "What is the price of maize in Dawanau this week?",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "I have not heard a price for maize in Dawanau Market yet. I have noted the gap.\n\nmaize into this part of the country moves mainly from Kaduna, Niger, Benue. The usual route is Kaduna → Lagos. 🌱 Seasonality: The main maize harvest in Nigeria generally occurs from August to October, with some variations depending on the region. (per commodity.ng) I do have maize prices in Gujungu Market, Pambeguwa Centeral Market, Dandaura Market if that helps.\n\n🔎 4 others asked for this price in Dawanau Market in the last 30 days — this gap is known.\n\nWant me to:\n1️⃣ Find sellers for it instead\n2️⃣ Check nearby markets\n3️⃣ Post a request so sellers come to you",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "Find sellers",
+        "Check nearby markets",
+        "Post a request"
+      ],
+      "time": "16:43"
+    },
+    {
+      "role": "user",
+      "text": "Check nearby markets",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    },
+    {
+      "role": "rep",
+      "text": "Maize by market — cheapest first\n1. Pambeguwa Centeral Market — NGN 344.44/kg\n(40 reports, newest 11d old)\n\n2. Dandaura Market — NGN 344.44/kg\n(33 reports, newest 13d old)\n\n3. Igabi Market — NGN 347/kg\n(29 reports, newest 11d old)\n\n4. Karfi Market — NGN 355.56/kg\n(26 reports, newest 8d old)\n\n5. Gundutse Market — NGN 379.44/kg\n(28 reports, newest 15d old)\n\nPambeguwa Centeral Market is about 10% below Gundutse Market on this basis.\n\n📍 Trader-reported, compared per kg — a guide for where to look, not a quote. Confirm at the stall, and factor the haul.\n\n1. Sellers in Pambeguwa Centeral Market\n2. Maize price",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "16:43"
+    }
+  ]
+}

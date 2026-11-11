@@ -1,0 +1,58 @@
+{
+  "filmId": "RepAgriFilm",
+  "storyboardId": "marketview-rep-agri-vertical",
+  "fps": 30,
+  "voice": "en-GB-Neural2-B",
+  "generatedAt": "2026-11-02T13:52:27.779Z",
+  "cues": [
+    {
+      "sceneId": "ask",
+      "index": 0,
+      "text": "Ask Rep, MarketView's AI assistant, about prices, right inside WhatsApp.",
+      "startFrame": 148,
+      "endFrame": 316
+    },
+    {
+      "sceneId": "ask",
+      "index": 1,
+      "text": "When a market has no price yet, it says so — and names the markets that do.",
+      "startFrame": 324,
+      "endFrame": 477
+    },
+    {
+      "sceneId": "answer",
+      "index": 0,
+      "text": "Find where supply is, and what it costs, without leaving your chat.",
+      "startFrame": 616,
+      "endFrame": 750
+    },
+    {
+      "sceneId": "answer",
+      "index": 1,
+      "text": "Every figure carries how many reports it rests on, and how fresh they are.",
+      "startFrame": 758,
+      "endFrame": 898
+    },
+    {
+      "sceneId": "language",
+      "index": 0,
+      "text": "And it works in the language you work in.",
+      "startFrame": 1144,
+      "endFrame": 1213
+    },
+    {
+      "sceneId": "close",
+      "index": 0,
+      "text": "Answers any time, no data analyst needed.",
+      "startFrame": 1522,
+      "endFrame": 1615
+    },
+    {
+      "sceneId": "close",
+      "index": 1,
+      "text": "MarketView. Join the NABG cohort, or book a sprint.",
+      "startFrame": 1623,
+      "endFrame": 1764
+    }
+  ]
+}

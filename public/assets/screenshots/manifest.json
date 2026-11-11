@@ -1,0 +1,470 @@
+{
+  "generatedAt": "2026-11-02T13:53:54.513Z",
+  "captures": [
+    {
+      "id": "landing-hero",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/landing-hero.png",
+      "staticPath": "assets/screenshots/landing-hero.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/",
+      "interaction": null,
+      "note": "Public landing hero, above the fold.",
+      "regions": {
+        "headline": {
+          "x": 0.10978835978835978,
+          "y": 0.20909391534391533,
+          "width": 0.582010582010582,
+          "height": 0.1462632275132275
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:26.277Z"
+    },
+    {
+      "id": "dashboard-home",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/dashboard-home.png",
+      "staticPath": "assets/screenshots/dashboard-home.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/home",
+      "interaction": null,
+      "note": "Dashboard landing panel, sprint state + feed.",
+      "regions": {
+        "hero": {
+          "x": 0.26455026455026454,
+          "y": 0.17199074074074075,
+          "width": 0.6296296296296297,
+          "height": 0.2831018518518518
+        },
+        "stats": {
+          "x": 0.26455026455026454,
+          "y": 0.5295800264550264,
+          "width": 0.6296296296296297,
+          "height": 0.15119047619047618
+        },
+        "sidebar": {
+          "x": 0,
+          "y": 0.11279761904761905,
+          "width": 0.15873015873015872,
+          "height": 0.8205357142857143
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:27.781Z"
+    },
+    {
+      "id": "markets-network",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/markets-network.png",
+      "staticPath": "assets/screenshots/markets-network.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/markets",
+      "interaction": null,
+      "note": "Africa-wide market network map with live pins.",
+      "regions": {
+        "map": {
+          "x": 0.37037037037037035,
+          "y": 0.28526785714285713,
+          "width": 0.6296296296296297,
+          "height": 0.5737929894179894
+        },
+        "directory": {
+          "x": 0.15873015873015872,
+          "y": 0.15914351851851852,
+          "width": 0.21164021164021163,
+          "height": 0.7741898148148149
+        },
+        "directoryList": {
+          "x": 0.15873015873015872,
+          "y": 0.295651455026455,
+          "width": 0.210978835978836,
+          "height": 0.6376818783068783
+        },
+        "topbar": {
+          "x": 0,
+          "y": 0,
+          "width": 1,
+          "height": 0.05502645502645503
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:38.797Z"
+    },
+    {
+      "id": "markets-kenya",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/markets-kenya.png",
+      "staticPath": "assets/screenshots/markets-kenya.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/markets",
+      "interaction": "map:dive -> Kenya",
+      "note": "Country-level dive: Kenya counties with per-market pins.",
+      "regions": {
+        "map": {
+          "x": 0.37037037037037035,
+          "y": 0.28526785714285713,
+          "width": 0.6296296296296297,
+          "height": 0.5737929894179894
+        },
+        "directory": {
+          "x": 0.15873015873015872,
+          "y": 0.15914351851851852,
+          "width": 0.21164021164021163,
+          "height": 0.7741898148148149
+        },
+        "directoryList": {
+          "x": 0.15873015873015872,
+          "y": 0.295651455026455,
+          "width": 0.210978835978836,
+          "height": 0.6376818783068783
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:40.862Z"
+    },
+    {
+      "id": "markets-search-nairobi",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/markets-search-nairobi.png",
+      "staticPath": "assets/screenshots/markets-search-nairobi.png",
+      "width": 2544,
+      "height": 1551,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/markets",
+      "interaction": "type:#atlas-search=Nairobi",
+      "note": "Directory filtered to Nairobi, result list state.",
+      "regions": {
+        "directory": {
+          "x": 0,
+          "y": 0.05648248901785354,
+          "width": 0.25157232704402516,
+          "height": 0.9435175109821464
+        },
+        "directoryList": {
+          "x": 0,
+          "y": 0.2228468947729013,
+          "width": 0.2507861635220126,
+          "height": 0.7771531052270987
+        },
+        "search": {
+          "x": 0.02830188679245283,
+          "y": 0.12870269616733165,
+          "width": 0.21147798742138366,
+          "height": 0.020634344899850884
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:43.657Z"
+    },
+    {
+      "id": "trade-pricing",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/trade-pricing.png",
+      "staticPath": "assets/screenshots/trade-pricing.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/trade",
+      "interaction": "nav:Trade & pricing",
+      "note": "Price series and commodity benchmarks.",
+      "regions": {
+        "buy": {
+          "x": 0.17063492063492064,
+          "y": 0.37213955026455026,
+          "width": 0.26630704365079366,
+          "height": 0.5107804232804233
+        },
+        "cheapest": {
+          "x": 0.44620122354497355,
+          "y": 0.37213955026455026,
+          "width": 0.2663173776455027,
+          "height": 0.5107804232804233
+        },
+        "corridors": {
+          "x": 0.7217778604497355,
+          "y": 0.37213955026455026,
+          "width": 0.26630704365079366,
+          "height": 0.5107804232804233
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:46.285Z"
+    },
+    {
+      "id": "alerts",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/alerts.png",
+      "staticPath": "assets/screenshots/alerts.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/alerts",
+      "interaction": "nav:Alerts",
+      "note": "Supply and price risk alert cards.",
+      "regions": {
+        "price": {
+          "x": 0.18386243386243387,
+          "y": 0.27448743386243385,
+          "width": 0.792989417989418,
+          "height": 0.14621362433862434
+        },
+        "foodSafety": {
+          "x": 0.18386243386243387,
+          "y": 0.4281084656084656,
+          "width": 0.792989417989418,
+          "height": 0.14621362433862434
+        },
+        "weather": {
+          "x": 0.18386243386243387,
+          "y": 0.5817294973544973,
+          "width": 0.792989417989418,
+          "height": 0.14621362433862434
+        },
+        "stack": {
+          "x": 0.18386243386243387,
+          "y": 0.27448743386243385,
+          "width": 0.792989417989418,
+          "height": 0.45345568783068785
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:47.679Z"
+    },
+    {
+      "id": "routes",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/routes.png",
+      "staticPath": "assets/screenshots/routes.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/routes",
+      "interaction": "nav:Market routes",
+      "note": "Corridor conditions between markets.",
+      "regions": {
+        "summary": {
+          "x": 0.17063492063492064,
+          "y": 0.27554563492063494,
+          "width": 0.8174603174603174,
+          "height": 0.1882936507936508
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:49.854Z"
+    },
+    {
+      "id": "weather",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/weather.png",
+      "staticPath": "assets/screenshots/weather.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/weather",
+      "interaction": "nav:Weather & climate",
+      "note": "Environmental context layer.",
+      "regions": {},
+      "capturedAt": "2026-11-02T13:53:51.417Z"
+    },
+    {
+      "id": "actors",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/actors.png",
+      "staticPath": "assets/screenshots/actors.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/actors",
+      "interaction": "nav:Core actors",
+      "note": "Verified actor network roster (fixture names).",
+      "regions": {},
+      "capturedAt": "2026-11-02T13:53:52.676Z"
+    },
+    {
+      "id": "api-access",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/api-access.png",
+      "staticPath": "assets/screenshots/api-access.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/api",
+      "interaction": "nav:API access",
+      "note": "Developer surface: base URL and key management.",
+      "regions": {
+        "keys": {
+          "x": 0.1818783068783069,
+          "y": 0.2355324074074074,
+          "width": 0.794973544973545,
+          "height": 0.22227182539682538
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:53.775Z"
+    },
+    {
+      "id": "api-prices-endpoint",
+      "flow": "marketview-client",
+      "file": "public/assets/screenshots/api-prices-endpoint.png",
+      "staticPath": "assets/screenshots/api-prices-endpoint.png",
+      "width": 3024,
+      "height": 1890,
+      "viewport": {
+        "width": 1512,
+        "height": 945,
+        "deviceScaleFactor": 2
+      },
+      "route": "/dashboard/api",
+      "interaction": "scroll:#panel-api -> GET /prices",
+      "note": "GET /prices request and 200 response shape.",
+      "regions": {
+        "endpoint": {
+          "x": 0.1818783068783069,
+          "y": 0.3572420634920635,
+          "width": 0.794973544973545,
+          "height": 0.3872354497354497
+        }
+      },
+      "capturedAt": "2026-11-02T13:53:54.433Z"
+    },
+    {
+      "id": "rep-console-onboarding",
+      "flow": "marketview-rep-whatsapp",
+      "file": "public/assets/screenshots/rep-console-onboarding.png",
+      "staticPath": "assets/screenshots/rep-console-onboarding.png",
+      "width": 796,
+      "height": 1128,
+      "viewport": {
+        "width": 1280,
+        "height": 980,
+        "deviceScaleFactor": 2
+      },
+      "route": "/wa-preview · onboarding",
+      "interaction": "onboarding complete",
+      "note": "Console state after onboarding; provenance for the transcript.",
+      "regions": {},
+      "capturedAt": "2026-10-26T23:07:29.363Z"
+    },
+    {
+      "id": "rep-console-answers",
+      "flow": "marketview-rep-whatsapp",
+      "file": "public/assets/screenshots/rep-console-answers.png",
+      "staticPath": "assets/screenshots/rep-console-answers.png",
+      "width": 796,
+      "height": 1128,
+      "viewport": {
+        "width": 1280,
+        "height": 980,
+        "deviceScaleFactor": 2
+      },
+      "route": "/wa-preview · questions",
+      "interaction": "ask: What are they asking per bag?",
+      "note": "Console state after the question sequence.",
+      "regions": {},
+      "capturedAt": "2026-10-26T23:07:40.720Z"
+    },
+    {
+      "id": "rep-agri-onboarding",
+      "flow": "marketview-rep-agribusiness",
+      "file": "public/assets/screenshots/rep-agri-onboarding.png",
+      "staticPath": "assets/screenshots/rep-agri-onboarding.png",
+      "width": 796,
+      "height": 1128,
+      "viewport": {
+        "width": 1280,
+        "height": 980,
+        "deviceScaleFactor": 2
+      },
+      "route": "/wa-preview · onboarding (NG)",
+      "interaction": "onboarding complete",
+      "note": "Console state after Nigerian onboarding; provenance for the agribusiness transcript.",
+      "regions": {},
+      "capturedAt": "2026-11-02T13:36:44.827Z"
+    },
+    {
+      "id": "rep-agri-answers",
+      "flow": "marketview-rep-agribusiness",
+      "file": "public/assets/screenshots/rep-agri-answers.png",
+      "staticPath": "assets/screenshots/rep-agri-answers.png",
+      "width": 796,
+      "height": 1128,
+      "viewport": {
+        "width": 1280,
+        "height": 980,
+        "deviceScaleFactor": 2
+      },
+      "route": "/wa-preview · agribusiness (EN) questions",
+      "interaction": "tap: Check nearby markets",
+      "note": "Console state after the English agribusiness question sequence.",
+      "regions": {},
+      "capturedAt": "2026-11-02T13:43:48.470Z"
+    },
+    {
+      "id": "rep-agri-hausa",
+      "flow": "marketview-rep-agribusiness",
+      "file": "public/assets/screenshots/rep-agri-hausa.png",
+      "staticPath": "assets/screenshots/rep-agri-hausa.png",
+      "width": 796,
+      "height": 1128,
+      "viewport": {
+        "width": 1280,
+        "height": 980,
+        "deviceScaleFactor": 2
+      },
+      "route": "/wa-preview · agribusiness (HA) questions",
+      "interaction": "tap: Check nearby markets",
+      "note": "Console state after the Hausa question; provenance for the language beat.",
+      "regions": {},
+      "capturedAt": "2026-11-02T13:44:10.131Z"
+    }
+  ],
+  "privacy": {
+    "clean": true,
+    "findings": []
+  },
+  "pageErrors": []
+}

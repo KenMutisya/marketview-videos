@@ -1,0 +1,22 @@
+node_modules
+.DS_Store
+.env
+.env.*
+
+# Rendered films and generated QA artefacts. Everything here is reproducible
+# from source + the committed captures via `npm run pds -- export`.
+/output
+
+# Remotion's own build output.
+dist
+.remotion
+
+# Derived image treatments are rebuilt by `npm run assets`.
+/public/assets/derived
+
+# Reference material is for local study; it is not ours to redistribute.
+/references/*
+!/references/README.md
+
+# Capture scratch
+/capture/outputs

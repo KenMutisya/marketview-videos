@@ -1,0 +1,51 @@
+{
+  "filmId": "ProcurementFilm",
+  "storyboardId": "marketview-procurement-vertical",
+  "fps": 30,
+  "voice": "en-GB-Neural2-B",
+  "generatedAt": "2026-11-02T21:06:53.296Z",
+  "cues": [
+    {
+      "sceneId": "coverage",
+      "index": 0,
+      "text": "MarketView puts over 320 markets across Nigeria and Kenya in one place.",
+      "startFrame": 148,
+      "endFrame": 325
+    },
+    {
+      "sceneId": "coverage",
+      "index": 1,
+      "text": "Each one validated through 19 data sources, including government enumerators and market leaders.",
+      "startFrame": 333,
+      "endFrame": 524
+    },
+    {
+      "sceneId": "actors",
+      "index": 0,
+      "text": "Reach into a mapped footprint of nearly 500,000 market actors — the traders and aggregators who actually move your commodity.",
+      "startFrame": 526,
+      "endFrame": 751
+    },
+    {
+      "sceneId": "pricing",
+      "index": 0,
+      "text": "See what your commodity costs across markets, then decide where to buy without sending someone to every one.",
+      "startFrame": 874,
+      "endFrame": 1066
+    },
+    {
+      "sceneId": "suppliers",
+      "index": 0,
+      "text": "Find, compare and reach suppliers faster.",
+      "startFrame": 1234,
+      "endFrame": 1324
+    },
+    {
+      "sceneId": "close",
+      "index": 0,
+      "text": "MarketView. Join the NABG cohort, or book a sprint.",
+      "startFrame": 1552,
+      "endFrame": 1693
+    }
+  ]
+}

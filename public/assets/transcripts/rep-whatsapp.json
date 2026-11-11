@@ -1,0 +1,130 @@
+{
+  "capturedAt": "2026-10-26T23:07:40.722Z",
+  "engine": "Vertex AI · groundwork-500011 · us-central1 · gemini-2.5-flash",
+  "testNumber": "reserved simulator number (never sent to Meta)",
+  "country": "Kenya",
+  "turns": [
+    {
+      "role": "user",
+      "text": "Hi",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "Before we start: I’m an AI assistant. I can help you find buyers and sellers, check market prices, get weather and traffic updates, and understand what’s happening across markets. You can also ask me anything else, and I’ll do my best to help. Shall we get started?",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "✅ Yes, proceed",
+        "❌ No thanks",
+        "🌐 Change language"
+      ],
+      "time": "02:07"
+    },
+    {
+      "role": "user",
+      "text": "✅ Yes, proceed",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "📍 Kenya.\n\nWhich state or county are you in? It helps me find the right market.\n\n1. Nairobi\n2. Nyandarua\n3. Kisii\n4. Uasin Gishu\n5. Skip\n6. ↔ Not Kenya?",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "user",
+      "text": "1",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "Which market or area are you in?\n\nTell me the market name or your nearest town.",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "Kangemi Market",
+        "Kayole Kona",
+        "Wakulima Market"
+      ],
+      "time": "02:07"
+    },
+    {
+      "role": "user",
+      "text": "Kangemi Market",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "I have you at Kangemi Market.\n\nAre you buying or selling today?",
+      "cards": [],
+      "warning": null,
+      "buttons": [
+        "☰ Choose"
+      ],
+      "time": "02:07"
+    },
+    {
+      "role": "user",
+      "text": "Buying",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "What are you looking to buy?\nTap a product below, or type it — I'll find sellers near Kangemi Market.\n\n1. 🍅 Tomatoes\n2. 🌽 Maize\n3. 🧅 Onions\n4. 🥬 Kale\n5. 🫘 Beans",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "user",
+      "text": "Onions",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "Sellers for onions near Kangemi Market\n(2 public listings)\n\nℹ️ New contact, not a verified MarketView member yet. Agree the price and terms, and check the goods before you pay.\nChatbot user\nOffer 1 · 🟢 active today\nRed Creole, Grade A\n(seller-stated)\n· 60 bags · Kangemi Market\nSeller: Grace Mutindi\nRating: 4.8/5 (44 trades)\nListed: 5h ago\nKES 5,400–5,900 per unit\nOn the tool: new · Listing for: new lister · Primary market: Kangemi Market · Active listings: 7 · Profile: 100% complete\nfull number shared once you both agree to connect\nℹ️ New contact, not a verified MarketView member yet. Agree the price and terms, and check the goods before you pay.\nChatbot user\nOffer 2 · 🟢 active today\nRed Creole, Grade A\n(seller-stated)\n· 45 bags · Kangemi Market\nSeller: John K****\nNo reviews yet\nListed: just now\nKES 5,500 per unit\nOn the tool: 6 weeks · Listing for: new lister · Primary market: Kangemi Market · Active listings: 7 · Profile: 80% complete\n📞 +25471•••75 · full number shared once you both agree to connect\n\nListed as Red Creole — confirm that's the variety you need (and a quantity) and I'll narrow it.\n\n📲 Not sure they're still selling? Reply \"confirm 1\" and I'll ping them to check before you call.\n\nAlright, I've found a couple of sellers with Red Creole onions near Kangemi Market. They're on your screen now. Shall I connect you with one of them?\n\n1. Yes\n2. No\n3. Different product",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "user",
+      "text": "What are they asking per bag?",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": "02:07"
+    },
+    {
+      "role": "rep",
+      "text": "",
+      "cards": [],
+      "warning": null,
+      "buttons": [],
+      "time": ""
+    }
+  ]
+}

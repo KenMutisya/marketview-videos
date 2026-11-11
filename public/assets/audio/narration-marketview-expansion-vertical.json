@@ -1,0 +1,58 @@
+{
+  "filmId": "ExpansionFilm",
+  "storyboardId": "marketview-expansion-vertical",
+  "fps": 30,
+  "voice": "en-GB-Neural2-B",
+  "generatedAt": "2026-11-02T13:52:21.643Z",
+  "cues": [
+    {
+      "sceneId": "map",
+      "index": 0,
+      "text": "MarketView shows you where your commodity is traded beyond the markets you already know.",
+      "startFrame": 148,
+      "endFrame": 297
+    },
+    {
+      "sceneId": "map",
+      "index": 1,
+      "text": "Over 320 markets covered, and 513 mapped for expansion.",
+      "startFrame": 305,
+      "endFrame": 472
+    },
+    {
+      "sceneId": "profile",
+      "index": 0,
+      "text": "See how big each market is, who trades there, and how active it is.",
+      "startFrame": 508,
+      "endFrame": 651
+    },
+    {
+      "sceneId": "trends",
+      "index": 0,
+      "text": "Spot growing markets and new sourcing routes before your competitors do.",
+      "startFrame": 844,
+      "endFrame": 967
+    },
+    {
+      "sceneId": "api",
+      "index": 0,
+      "text": "Make expansion decisions with real market evidence behind them.",
+      "startFrame": 1174,
+      "endFrame": 1283
+    },
+    {
+      "sceneId": "api",
+      "index": 1,
+      "text": "Use it on our dashboards, or plug it into your own systems.",
+      "startFrame": 1291,
+      "endFrame": 1416
+    },
+    {
+      "sceneId": "close",
+      "index": 0,
+      "text": "MarketView. Join the NABG cohort, or book a sprint.",
+      "startFrame": 1534,
+      "endFrame": 1675
+    }
+  ]
+}
